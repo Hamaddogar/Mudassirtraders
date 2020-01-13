@@ -1,0 +1,9 @@
+.add-payment table{
+    position: relative;
+    top:-20px;
+}
+
+.add-payment .modal-content{ 
+    height: 365px;
+    overflow: auto;
+}

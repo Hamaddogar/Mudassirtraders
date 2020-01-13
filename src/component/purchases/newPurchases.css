@@ -1,0 +1,30 @@
+.bill-summary{
+    color:white;
+    font-weight: bold;
+    
+    
+  }
+
+
+
+  .sales-table{
+    margin-top: 105px;
+  }
+
+  .stock-indicator{
+    display: block;
+      width: 50px;
+      height: 50px;
+      border-radius: 100px;
+      background-color: #00254a;
+      color: white;
+      line-height: 50px;
+      text-align: center;
+      font-weight: bold;
+  }
+
+  .billSummary{
+    background-color: rgba(47, 47, 47, 0.5);
+    border-radius: 20px;
+    padding: 9px;
+  }

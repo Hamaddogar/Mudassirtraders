@@ -1,0 +1,13 @@
+.payment-adder .modal{
+    width:30%;
+    min-width: 400px;
+}
+
+.payment-adder input{
+    width:100px !important;
+    margin-left:10px;
+}
+
+.payment-adder select{
+    width:150px;
+}
