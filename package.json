@@ -34,7 +34,7 @@
     "redux-thunk": "^2.3.0",
     "validator": "^12.1.0"
   },
-  "proxy": "http://localhost:9000",
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
